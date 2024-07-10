@@ -1,1 +1,4 @@
-AQUI VAI UM APP: PROJETO PLANEJADOR DE VIAGENS FEITO NO EVENTO NLW DA ROCKESEAT
+=============================================
+# APLICATIVO - EVENTO NLW (ROCKETSEAT)🚀: 
+**PLANEJADOR DE VIAGENS**
+-----------------------------------------------------------

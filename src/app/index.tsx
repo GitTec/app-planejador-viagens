@@ -2,7 +2,7 @@ import { View, Text } from "react-native"
 
 export default function Index() {
     return (
-        <View>
+        <View className="">
             <Text>Iniciando aplicação NLW</Text>
         </View>
     )
